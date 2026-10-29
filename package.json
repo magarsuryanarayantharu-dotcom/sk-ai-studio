@@ -13,8 +13,9 @@
     "typescript": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest",
-    "vite-plugin-vercel": "latest"
+    "lucide-react": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "vite-plugin-vercel": "latest"
+  }
 }
